@@ -1,0 +1,14 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Haiturn.Logistics.Foundation.Contract", "Haiturn.Logistics.Foundation.Contract", "{C7E30124-E13F-4DB7-AD8B-1DF01CDD6DA8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Haiturn.Logistics.Foundation.Server", "Haiturn.Logistics.Foundation.Server", "{5E0E7BAC-7C7E-427C-96E7-E8A07E31473F}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
